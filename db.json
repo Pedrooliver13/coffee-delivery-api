@@ -5,7 +5,7 @@
       "tags": ["tradicional"],
       "name": "Expresso Tradicional",
       "description": "O tradicional café feito com água quente e grãos moídos",
-      "photo": "coffee-cup.svg",
+      "photo": "assets/coffee-cup.svg",
       "price": 9.9
     },
     {
